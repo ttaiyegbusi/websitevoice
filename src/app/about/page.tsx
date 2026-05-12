@@ -1,22 +1,22 @@
-import PageHero from '@/components/PageHero';
-import FinalCTA from '@/components/FinalCTA';
+import PageHero from "@/components/PageHero";
+import FinalCTA from "@/components/FinalCTA";
 
 const VALUES = [
   {
-    title: 'Accessibility first',
-    body: 'We design every feature so users with visual impairments, dyslexia, or learning differences can access content effortlessly.',
+    title: "Accessibility first",
+    body: "We design every feature so users with visual impairments, dyslexia, or learning differences can access content effortlessly.",
   },
   {
-    title: 'Natural voices',
-    body: 'We work with the best neural text-to-speech models so your readers hear voices that feel human, not robotic.',
+    title: "Natural voices",
+    body: "We work with the best neural text-to-speech models so your readers hear voices that feel human, not robotic.",
   },
   {
-    title: 'Built for the busy',
-    body: 'Our players let your audience tune in while commuting, cooking, or working — turning your blog into a hands-free podcast.',
+    title: "Built for the busy",
+    body: "Our players let your audience tune in while commuting, cooking, or working — turning your blog into a hands-free podcast.",
   },
   {
-    title: 'Friendly to creators',
-    body: 'Simple pricing, a fast WordPress plugin, and a 14-day free trial mean you can start with no commitment.',
+    title: "Friendly to creators",
+    body: "Simple pricing, a fast WordPress plugin, and a 14-day free trial mean you can start with no commitment.",
   },
 ];
 
