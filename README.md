@@ -85,3 +85,4 @@ Defined in `tailwind.config.ts` under `theme.extend.colors`:
 
 Assistant by Hai Bar Tibi (SIL OFL 1.1). Four weights are bundled: Regular (400), SemiBold (600), Bold (700), ExtraBold (800). The OFL license is included at `src/app/fonts/OFL.txt` — you can redistribute the font as long as that file travels with it.
 # websitevoice
+# websitevoice
