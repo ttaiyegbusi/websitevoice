@@ -1,13 +1,13 @@
-import PageHero from '@/components/PageHero';
-import FAQAccordion from '@/components/FAQAccordion';
-import FinalCTA from '@/components/FinalCTA';
-import { FAQS } from '@/data/faqs';
+import PageHero from "@/components/PageHero";
+import FAQAccordion from "@/components/FAQAccordion";
+import FinalCTA from "@/components/FinalCTA";
+import { FAQS } from "@/data/faqs";
 
 export default function FAQPage() {
   return (
     <>
       <PageHero
-        eyebrow="Frequently Asked Questions"
+        eyebrow="Frequently Asked Question"
         title="Everything you wanted to know"
         subtitle="Can't find what you're looking for? Drop us a line — we'd be happy to help."
       />
